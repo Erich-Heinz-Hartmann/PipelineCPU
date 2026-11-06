@@ -1,0 +1,21 @@
+# ISE 生成物
+*.lso
+*.prj
+*.stx
+*.xst
+*.xise
+*.gise
+*.xmsgs
+*.exe
+*.wdb
+*.vcd
+*.log
+xilinxsim.ini
+isim/
+xst/
+iseconfig/
+_xmsgs/
+ipcore_dir/
+
+# 压缩包与备份
+*.zip
